@@ -20,5 +20,5 @@ In the example from the website, they have taken there samples to be independent
 
 The purpose of a one-way analysis of variance (one-way ANOVA) is to compare the means of two or more groups (the independent variable) on one dependent variable to see if the group means are significantly different from each other. ANOVA is a statistical test that assumes that the mean across 2 or more groups are equal. If the evidence suggests that this is not the case, the null hypothesis is rejected and at least one data sample has a different distribution.
 
-(Code Link)[]
+[Code Link][https://github.com/SourajitaDewasi/StasticalDataAnalysis/blob/main/Student%20T%20Test%20and%20ANOVA/Student's_T_Test.ipynb]
 </hr>
