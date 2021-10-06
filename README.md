@@ -1,5 +1,7 @@
 # StasticalDataAnalysis
+Implementation, Visualization and Analysis of Stastical Data
 
+<hr>
 ## T-TEST
 Inferential stastic used to determine if there between the means of two groups/distribution.
 
@@ -17,3 +19,6 @@ In the example from the website, they have taken there samples to be independent
 ## ANOVA TEST
 
 The purpose of a one-way analysis of variance (one-way ANOVA) is to compare the means of two or more groups (the independent variable) on one dependent variable to see if the group means are significantly different from each other. ANOVA is a statistical test that assumes that the mean across 2 or more groups are equal. If the evidence suggests that this is not the case, the null hypothesis is rejected and at least one data sample has a different distribution.
+
+(Code Link)[]
+</hr>
