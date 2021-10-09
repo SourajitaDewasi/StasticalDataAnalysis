@@ -34,5 +34,17 @@ The purpose of a one-way analysis of variance (one-way ANOVA) is to compare the 
   
   ### 1. Histograms, KDE, and densities
             1.1 plot histograms and joint distributions of variables for stastical data visualization.
+  ### 2. Generalizing joint plots to datasets of larger dimensions leads to pair plots.
+            2.1 Useful for exploring correlations between multidimensional data to plot all pairs of values against each other.
+  ### 3. Faceted Histograms
+            3.1 View data via histograms of subsets. 
+  ### 4. Factor plots
+            4.1 Factor plots is used to view the distribution of a parameter within bins defined by any other parameter.
+  ### 5. Joint Distributions
+            5.1 Show the joint distribution between different datasets, along with the associated marginal distributions.
+  ### 6. Example: Exploring Marathon Finishing Times
+            6.1 Violin plots, Time Series Plots, JointPlot
+            
+
 
 </p>
