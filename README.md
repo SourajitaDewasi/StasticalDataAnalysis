@@ -45,7 +45,9 @@ The purpose of a one-way analysis of variance (one-way ANOVA) is to compare the 
             5.1 Show the joint distribution between different datasets, along with the associated marginal distributions.
   ### 6. Example: Exploring Marathon Finishing Times
             6.1 Violin plots, Time Series Plots, JointPlot
-            
-
-
+</p>
+<p>
+  ##Exploring Pandas Visualization
+  [Code Link](https://github.com/SourajitaDewasi/StasticalDataAnalysis/blob/main/Student%20T%20Test%20and%20ANOVA/Student's_T_Test.ipynb)
+  [Code Link of Reference Site](https://nbviewer.org/urls/gist.github.com/fonnesbeck/5850375/raw/c18cfcd9580d382cb6d14e4708aab33a0916ff3e/1.+Introduction+to+Pandas.ipynb)
 </p>
