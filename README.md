@@ -29,7 +29,7 @@ The purpose of a one-way analysis of variance (one-way ANOVA) is to compare the 
 </hr>
 
 <p>
- ## Exploring Seaborn Plots
+ ### Exploring Seaborn Plots
     High level commands to plot useful for stastical data exploration and stastical model fitting. Seaborn API is more convenient than raw Matplolib commands
       [Code Link](https://github.com/SourajitaDewasi/StasticalDataAnalysis/tree/main/Seaborn)
   
