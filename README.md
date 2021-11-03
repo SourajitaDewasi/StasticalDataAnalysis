@@ -34,7 +34,11 @@ The purpose of a one-way analysis of variance (one-way ANOVA) is to compare the 
     High level commands to plot useful for stastical data exploration and stastical model fitting. Seaborn API is more convenient than raw Matplolib commands
       [Code Link](https://github.com/SourajitaDewasi/StasticalDataAnalysis/tree/main/Seaborn)
   
-  ### 1. Histograms, KDE, and densities
+  ### 1. Histograms, KDE, and densities: 
+  Histograms represent the data distribution by forming bins along the range of the data and then drawing bars to show the number of observations that fall in each bin.
+  
+  Kernel Density Estimation (KDE) is a way to estimate the probability density function of a continuous random variable. It is used for non-parametric analysis. Setting the hist flag to False in distplot will yield the kernel density estimation plot.
+  
             1.1 plot histograms and joint distributions of variables for stastical data visualization.
   ### 2. Generalizing joint plots to datasets of larger dimensions leads to pair plots.
             2.1 Useful for exploring correlations between multidimensional data to plot all pairs of values against each other.
