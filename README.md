@@ -52,10 +52,11 @@ The purpose of a one-way analysis of variance (one-way ANOVA) is to compare the 
             6.1 Violin plots, Time Series Plots, JointPlot
 </p>
 <p>
-  ## Exploring Pandas Visualization 
+## Exploring Pandas Visualization 
   
   [Code Link](https://github.com/SourajitaDewasi/StasticalDataAnalysis/tree/main/Pandas)
   
   [Code Link of Reference Site 1:](https://nbviewer.org/urls/gist.github.com/fonnesbeck/5850375/raw/c18cfcd9580d382cb6d14e4708aab33a0916ff3e/1.+Introduction+to+Pandas.ipynb)
+  
   [Code Link of Reference Site 2:](https://nbviewer.jupyter.org/urls/gist.github.com/fonnesbeck/5850413/raw/3a9406c73365480bc58d5e75bc80f7962243ba17/2.+Data+Wrangling+with+Pandas.ipynb)
 </p>
