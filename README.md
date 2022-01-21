@@ -1,4 +1,4 @@
-# StasticalDataAnalysis
+# Stastical Data Analysis
 Implementation, Visualization and Analysis of Stastical Data
 
 <hr>
