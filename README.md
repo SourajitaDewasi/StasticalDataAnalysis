@@ -3,7 +3,7 @@ Implementation, Visualization and Analysis of Stastical Data
 
 <hr>
 <p>
-  ### Bokeh - [Link](https://github.com/SourajitaDewasi/StasticalDataAnalysis/tree/main/Bokeh)
+  1. Bokeh : [Code Link](https://github.com/SourajitaDewasi/StasticalDataAnalysis/tree/main/Bokeh)
   
 <p>
 
