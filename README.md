@@ -3,6 +3,9 @@ Implementation, Visualization and Analysis of Stastical Data
 
 <hr>
 <p>
+  ### Bokeh - [Link](https://github.com/SourajitaDewasi/StasticalDataAnalysis/tree/main/Bokeh)
+  
+<p>
 
 ## T-TEST
 Inferential stastic used to determine if there between the means of two groups/distribution.
