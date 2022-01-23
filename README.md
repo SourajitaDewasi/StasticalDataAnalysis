@@ -62,3 +62,5 @@ The purpose of a one-way analysis of variance (one-way ANOVA) is to compare the 
   
   [Code Link of Reference Site 2:](https://nbviewer.jupyter.org/urls/gist.github.com/fonnesbeck/5850413/raw/3a9406c73365480bc58d5e75bc80f7962243ba17/2.+Data+Wrangling+with+Pandas.ipynb)
 </p>
+
+[License Details](https://github.com/SourajitaDewasi/StasticalDataAnalysis/blob/main/LICENSE)
