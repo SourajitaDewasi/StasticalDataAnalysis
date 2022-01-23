@@ -2,9 +2,9 @@
 Implementation, Visualization and Analysis of Stastical Data
 
 <hr>
-<p>
+
   1. Bokeh : [Code Link](https://github.com/SourajitaDewasi/StasticalDataAnalysis/tree/main/Bokeh)
-  
+  2. Matplotlib : [Code Link](https://github.com/SourajitaDewasi/StasticalDataAnalysis/tree/main/Matplotlib)
 <p>
 
 ## T-TEST
