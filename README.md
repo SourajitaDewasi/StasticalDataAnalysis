@@ -5,6 +5,7 @@ Implementation, Visualization and Analysis of Stastical Data
 
   1. Bokeh : [Code Link](https://github.com/SourajitaDewasi/StasticalDataAnalysis/tree/main/Bokeh)
   2. Matplotlib : [Code Link](https://github.com/SourajitaDewasi/StasticalDataAnalysis/tree/main/Matplotlib)
+  3. Seaborn : [Code Link](https://github.com/SourajitaDewasi/StasticalDataAnalysis/tree/main/Seaborn)
 <p>
 
 ## T-TEST
