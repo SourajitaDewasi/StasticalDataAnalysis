@@ -18,10 +18,7 @@ It's of two types:
 
 ## PAIRED T-TEST
 
-This is done to compare the samples from the same group.
-Because the samples are not independent, we cannot use the Student’s t-test. Instead, we must use a modified version of the test that checks for the fact that the data samples are dependent, called the paired Student’s t-test.
-
-In the example from the website, they have taken there samples to be independent, not paired, we can pretend for the sake of the demonstration that the observations are paired and calculate the statistic.
+This is done to compare the samples from the same group. Because the samples are not independent, we cannot use the Student’s t-test. Instead, we must use a modified version of the test that checks for the fact that the data samples are dependent, called the paired Student’s t-test. In the example from the website, they have taken there samples to be independent, not paired, we can pretend for the sake of the demonstration that the observations are paired and calculate the statistic.
 
 ## ANOVA TEST
 
